@@ -1,0 +1,57 @@
+{
+  "slug": "developpement-d-application-mobile-low-code",
+  "title": "Créez des applications mobiles sans coder : Introduction au développement low-code",
+  "description": "Découvrez les outils et les méthodes pour créer des applications mobiles sans avoir besoin de compétences en programmation. Ce cours vous guide à travers les étapes de conception et de déploiement d'applications mobiles low-code. Vous apprendrez à créer des applications mobiles fonctionnelles sans écrire une seule ligne de code.",
+  "level": "debutant",
+  "icon": "📱",
+  "tags": [
+    "low-code",
+    "developpement-mobile",
+    "no-code"
+  ],
+  "price": 5000,
+  "free_chapters": 2,
+  "version": "1.0.0",
+  "chapters": [
+    {
+      "file": "01-introduction-au-low-code.md",
+      "title": "Introduction au développement low-code"
+    },
+    {
+      "file": "02-concepts-de-base-du-low-code.md",
+      "title": "Comprendre les concepts de base du low-code"
+    },
+    {
+      "file": "03-choisir-un-outil-de-developpement-low-code.md",
+      "title": "Choisir un outil de développement low-code"
+    },
+    {
+      "file": "04-creer-une-application-mobile-low-code.md",
+      "title": "Créer une application mobile low-code"
+    },
+    {
+      "file": "05-gestion-des-donnees-dans-les-applications-low-code.md",
+      "title": "Gestion des données dans les applications low-code"
+    },
+    {
+      "file": "06-integration-des-api-et-des-services-tiers.md",
+      "title": "Intégration des API et des services tiers"
+    },
+    {
+      "file": "07-test-et-debugage-des-applications-low-code.md",
+      "title": "Test et débogage des applications low-code"
+    },
+    {
+      "file": "08-mise-en-ligne-et-promotion-des-applications-low-code.md",
+      "title": "Mise en ligne et promotion des applications low-code"
+    },
+    {
+      "file": "09-optimisation-des-performances-des-applications-low-code.md",
+      "title": "Optimisation des performances des applications low-code"
+    },
+    {
+      "file": "10-securite-des-applications-low-code.md",
+      "title": "Sécurité des applications low-code"
+    }
+  ]
+}
